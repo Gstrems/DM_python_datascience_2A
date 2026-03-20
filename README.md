@@ -1,5 +1,7 @@
 # DM_python_datascience_2A
-Rendu intermédiaire de python pour la datascience de 2A
+Rendu intermédiaire de python pour la datascience de 2A - groupe Mahaut Maurel, Gustave Billon, Gabriel Stremsdoerfer
+
+# !!!! TOUJOURS PULL AVANT DE PUSH !!!!
 
 # installer un nouvel environnement python à la racine du projet: 
         python -m venv venv 
